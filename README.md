@@ -29,6 +29,7 @@
 * Healed Network @ Co-Owner & Developer
 * CyrusPvP Network @ Platform-Admin & Developer
 * WaterMC Network @ Developer
+* HolyPvP Network @ Developer
 
 ## 🤜 Friends / Cool people
 * [DevEliezeer](https://github.com/DevEliezeer) - Nice friend & developer ✨ (Mi peru causa 🗣️)
